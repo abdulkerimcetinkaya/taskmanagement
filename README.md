@@ -12,7 +12,7 @@ Bu proje, kullanıcıların görev oluşturmasına, görüntülemesine, güncell
 
 ## Kullanılan Teknolojiler
 
-- **Backend:** Java 17, Spring Boot 3
+- **Backend:** Java 17, Spring Boot 3, Maven, Lombok
 - **Veritabanı:** H2 (Geliştirme ortamı için)
 
 ## Kurulum
