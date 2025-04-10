@@ -81,7 +81,7 @@ Bu proje, kullanıcıların görev oluşturmasına, görüntülemesine, güncell
 ## Notlar
 
 - **Geliştirme Ortamı:** Bu proje, eğitim amaçlı geliştirilmiş bir **mini projedir**. Gerçek bir üretim ortamında, daha sağlam ve sürdürülebilir bir yapı için **Data Transfer Object (DTO)** deseni, doğrulama (validation), logging, exception handling gibi iyileştirmeler eklenebilir.
-- **İletişim:** Herhangi bir soru veya geri bildirim için [e-posta adresiniz] üzerinden benimle iletişime geçebilirsiniz.
+- **İletişim:** Herhangi bir soru veya geri bildirim için "a.cetinkayaa78@gmail.com" üzerinden benimle iletişime geçebilirsiniz.
 
 ---
 
